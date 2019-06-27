@@ -11,4 +11,4 @@ A simple "refresh page" dice game.
 - English
 
 # Live version
-https://senebi.github.io/Dicee
+https://senebi.github.io/Dicee/dicee.html
